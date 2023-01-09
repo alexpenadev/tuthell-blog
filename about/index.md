@@ -7,4 +7,4 @@ eleventyNavigation:
   order: 3
 ---
 
-This blog is a testament of me going through tutorial hell and the path that I took doing it.
+This blog is my accountability and testimonial of working and getting myself out of tutorial hell. I hope you gain some insight thru this blog. I will be as detailed as possible from the first post to getting a job in front-end development. So welcome to tuthell 🔥
