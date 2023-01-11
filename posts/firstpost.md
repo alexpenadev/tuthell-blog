@@ -1,8 +1,8 @@
 ---
-title: This is my first post.
+title: Coming Soon!
 description: This is a post on My Blog about agile frameworks.
-date: 2022-01-09
-scheduled: 2022-01-09
+date: 2022-01-10
+scheduled: 2022-01-10
 tags:
   - another-tag
 layout: layouts/post.njk
