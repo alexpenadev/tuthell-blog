@@ -1,8 +1,8 @@
 ---
 title: The first day of the road ahead
 description: This is my first post in the journey out of tutorial hell.
-date: 2023-01-11
-scheduled: 2023-01-11
+date: 2023-01-13
+scheduled: 2023-01-13
 tags:
   - another-tag
 layout: layouts/post.njk
