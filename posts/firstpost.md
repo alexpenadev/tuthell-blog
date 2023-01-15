@@ -6,13 +6,13 @@ scheduled: 2023-01-13
 tags:
   - another-tag
 layout: layouts/post.njk
-image: https://images.unsplash.com/photo-1542242476-5a3565835a38?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80
+# image: https://images.unsplash.com/photo-1542242476-5a3565835a38?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80
 ---
 
 Welcome to tutorial hell. Today is my first day of planning the road ahead for me.
 The main issue with tutorial hell is that many people cannot build an app, website, or any other project they have in mind without a tutorial holding their hand every step of the way. So I have been on this road for a long time, and every time without a doubt, I hear the same advice build something, anything. So I decided I had to do something about this issue; I became tired of being stuck and wrote this blog to record the process of my successes and failures.
 
-![An image](https://images.unsplash.com/photo-1542242476-5a3565835a38?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80)
+![Test Share SVG](/img/road-pic.jpg)
 
 ## What does the road ahead look like ?
 
