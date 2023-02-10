@@ -29,7 +29,7 @@ To gain these skills as quickly as possible, I looked for resources that would p
 
 ## 🔗 Links to Resources
 
-[Mozilla developer Network](https://developer.mozilla.org/en-US/)
+[Mozilla Developer Network](https://developer.mozilla.org/en-US/)
 
 [Frontend Mentor](https://www.frontendmentor.io/home)
 
